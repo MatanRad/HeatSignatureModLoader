@@ -20,7 +20,3 @@ vcpkg_installed
 .claude
 docs/decomp/*
 /docs/posted_mod_ideas.txt
-
-build-local/
-build-agent/
-
